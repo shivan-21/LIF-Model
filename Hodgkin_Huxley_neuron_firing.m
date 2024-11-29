@@ -1,6 +1,5 @@
 %% Source: I have followed the instructions in andysbrainblog.blogspot.com which was a very helpful resource 
-% The code below is reproduced from the blog with certain parameters
-% changed
+% The code below is reproduced from the blog with certain parameters changed
 %% Setting Constants and Simulation Parameters 
 % simulation time
 simulationTime = 100; %in milliseconds
